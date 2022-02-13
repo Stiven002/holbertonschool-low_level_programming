@@ -21,6 +21,6 @@ int main(void)
 		putchar(x);
 		++x;
 	}
-	putchar('\n');
+	echo '\n';
 	return (0);
 }
