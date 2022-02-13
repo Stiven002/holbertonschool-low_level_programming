@@ -15,12 +15,6 @@ int main(void)
 		putchar(x);
 		++x;
 	}
-	x = 'A';
-	while (x <= 'Z')
-	{
-		putchar(x);
-		++x;
-	}
-	echo '\n';
+	putchar ('\n');
 	return (0);
 }
