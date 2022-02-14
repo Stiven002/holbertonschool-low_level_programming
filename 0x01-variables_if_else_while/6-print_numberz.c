@@ -10,8 +10,8 @@ int main(void)
 {
 	int x;
 
-	x = 28;
-	while  (x < 38)
+	x = 48;
+	while  (x < 58)
 	{
 		putchar(x);
 		x++;
